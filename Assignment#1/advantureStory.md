@@ -74,7 +74,11 @@ Open the door lock only if you know the person. If you feel somthing suspecious,
 ## [call security]
 
 Beefy Security Guards shows up and grab the person.  Forces the person to walk down the block.
-The person refuses and then 
+The person refuses and then gets pounded by the Beefy Security Guards.
+
+**[end]**
+
+---
 
 ## [ask the person to leave]
 
