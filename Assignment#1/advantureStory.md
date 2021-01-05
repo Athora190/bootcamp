@@ -25,7 +25,7 @@ Only people who appreciate breakfast get this.  You go about your day feeling go
 
 ---
 
-##[do you just open the door]
+## [do you just open the door]
 
 You open the door. You find a bad bag of really stinky horse manure.
 It makes you throw up whatever you had for dinner for two weeks.
@@ -35,7 +35,7 @@ It makes you throw up whatever you had for dinner for two weeks.
 
 ---
 
-##[you close the door and rush to the nearest toilet]
+## [you close the door and rush to the nearest toilet]
 
 You worship the porcelain gods and fall asleep.
 You hope someone else cleans mess.
@@ -44,7 +44,7 @@ You hope someone else cleans mess.
 
 ---
 
-##[you wait for a sec, then find stuff to clean up manure and vomit]
+## [you wait for a sec, then find stuff to clean up manure and vomit]
 
 You wait for a second.  You go back inside to get some stuff to clean the vomit and manure.
 You then discover $500.
