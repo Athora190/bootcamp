@@ -57,7 +57,7 @@ You then discover $500.
 ## [ask who is it]
 
 As you ask the person for his/her identity. Do you:
-**[keep the door locked]** or
+**[keep the door locked]** 
 **[open the door to see who it is]**
 
 ---
@@ -65,40 +65,58 @@ As you ask the person for his/her identity. Do you:
 ## [keep the door locked]
 
 Open the door lock only if you know the person. If you feel somthing suspecious, what do you do?
-**[call security]** or
+
+**[call security]** 
 **[ask the person to leave]**
+
+---
+
+## [call security]
+
+Beefy Security Guards shows up and grab the person.  Forces the person to walk down the block.
+The person refuses and then gets pounded by the Beefy Security Guards.
+
+**[end]**
 
 ---
 
 ## [ask the person to leave]
 
 If you can't confirm the strangers identity, gently ask the person to leave. After the person leaves , what do you do?
-**[continue eating breakfast]** or
+**[continue eating breakfast]** 
 **[get ready for school]**
 
 ---
 
-##[continue eating breakfast]
+## [continue eating breakfast]
+
 you went back to the table to eat breakfast leaving the person at the door before going about your day into the night where you sleep peaceful in your bed.
+
 **[end]**
 
 ---
 
-**[get ready for school]
+## [get ready for school]
+
 You left the person at the door ignoring there requests going to your room to get ready for school do you?
-**[wear your school uniform]\*\*
+
+**[wear your school uniform]**
 **[wear regular clothes]**
 
 ---
 
-**[wear regular clothes]
+## [wear regular clothes]
+
 You put on normal etire leaving the house to go to school however, on your way to class you get caught by the princple going stright to detenction having your parents called getting in trouble at home after.
-**[end]\*\*
+
+**[end]**
 
 ---
 
-**[wear your school uniform]
+## [wear your school uniform]
+
 you put on your school uniform before leaving the house, heading to class everything is normal before you are called to the princple's office when you get there you see your parents. They tell you that you are going home early as its time to visit your grandmother in the hospital.
-**[end]\*\*
+
+**[end]**
 
 ---
