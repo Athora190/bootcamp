@@ -15,3 +15,22 @@ You get up from the table leaving your half finished breakfast behind. Going to 
 **[do you just open the door]**
 
 ---
+
+## [ask who is it]
+As you ask the person for his/her identity. Do you:
+**[keep the door locked]**
+**[open the door to see who it is]**
+
+---
+
+## [keep the door locked]
+Open the door lock only if you know the person. If you feel somthing suspecious, do you:
+**[call security]**
+**[ask the person to leave]**
+
+---
+
+## [ask the person to leave]
+If you can't confirm the strangers identity, gently ask the person to leave.
+
+**[end]**
