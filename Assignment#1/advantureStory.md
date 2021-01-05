@@ -24,13 +24,15 @@ As you ask the person for his/her identity. Do you:
 ---
 
 ## [keep the door locked]
-Open the door lock only if you know the person. If you feel somthing suspecious, do you:
+Open the door lock only if you know the person. If you feel somthing suspecious, what do you do?
 **[call security]** or
 **[ask the person to leave]**
 
 ---
 
 ## [ask the person to leave]
-If you can't confirm the strangers identity, gently ask the person to leave.
+If you can't confirm the strangers identity, gently ask the person to leave. After the person leaves , what do you do?
+**[continue eating breakfast]** or
+**[get ready for school]**
 
-**[end]**
+
