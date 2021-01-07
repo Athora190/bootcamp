@@ -19,8 +19,12 @@ LInk to w3schools on css.
 https://materializecss.com/media-css.html
 https://www.w3schools.com/w3css/
 
+<<<<<<< HEAD
 panel 1 summary:
 column 1: starts with a sunset background with text saying in a "far away land, where everything the sunlight touched seemed to glow"
 column 2: then the setting changes to a king sitting on a throne looking concered, thinking "I can't this happened!?"
 column 3: suddenly a load bang echos through the room
 column 4: an the new appointed king bursts through the door saying "guess whoes here, bishes!!"
+=======
+ -
+>>>>>>> 221a561f0a20d31083f0d5961ac788fa9b1322c8
