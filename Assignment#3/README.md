@@ -41,4 +41,4 @@ panel 4 summary:
 column 1: suddenly a plague begins to settle on the kingdom, making people sick
 column 2: the king stats "the plague isn't real" over a crowd of dead people
 column 3: suddenly a loud bang echos the room
-column 4: a new appointed bursts through the door saying "your time here is over"
+column 4: a new appointed king bursts through the door saying "your time here is over"
