@@ -9,8 +9,8 @@ To Create A Comic
 1. Everyone works on their own panel<br>
    -- Panel 1 : Jordane --<br>
    -- Panel 2 : Sean --<br>
-   -- Panel 1 : Damian --<br>
-   -- Panel 1 : Jade --<br>
+   -- Panel 3 : Damian --<br>
+   -- Panel 4 : Jade --<br>
 
 2. Panel Requirement <br>
    Total panels required - 4<br>
